@@ -1,2 +1,2 @@
 # jpm-starter-theme
-This is my personal Genesis starter theme.
+This is the personal starter theme I use when developing websites using WordPress and the Genesis Framework.
