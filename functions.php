@@ -149,3 +149,8 @@ function genesis_sample_comments_gravatar( $args ) {
 	return $args;
 
 }
+
+// Unregister layout settings.
+genesis_unregister_layout('content-sidebar-sidebar');
+genesis_unregister_layout('sidebar-sidebar-content');
+genesis_unregister_layout('sidebar-content-sidebar');
