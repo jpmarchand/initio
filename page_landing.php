@@ -1,15 +1,15 @@
 <?php
 /**
- * Genesis Sample.
+ * JPM Starter Theme.
  *
- * This file adds the landing page template to the Genesis Sample Theme.
+ * This file adds the landing page template to the JPM Starter Theme.
  *
  * Template Name: Landing
  *
- * @package Genesis Sample
- * @author  StudioPress
+ * @package JPM Starter Theme
+ * @author  Jean-Philippe Marchand
  * @license GPL-2.0+
- * @link    http://www.studiopress.com/
+ * @link    https://www.jeanphilippemarchand.com/
  */
 
 // Add landing page body class to the head.
