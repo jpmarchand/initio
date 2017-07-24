@@ -1,10 +1,10 @@
 <?php
 /**
- * Genesis Sample.
+ * Initio.
  *
- * This file adds functions to the Genesis Sample Theme.
+ * This file adds functions to the Initio Theme.
  *
- * @package Genesis Sample
+ * @package Initio
  * @author  StudioPress
  * @license GPL-2.0+
  * @link    http://www.studiopress.com/
@@ -41,9 +41,9 @@ include_once( get_stylesheet_directory() . '/lib/woocommerce/woocommerce-output.
 include_once( get_stylesheet_directory() . '/lib/woocommerce/woocommerce-notice.php' );
 
 // Child theme (do not remove).
-define( 'CHILD_THEME_NAME', 'Genesis Sample' );
-define( 'CHILD_THEME_URL', 'http://www.studiopress.com/' );
-define( 'CHILD_THEME_VERSION', '2.3.0' );
+define( 'CHILD_THEME_NAME', 'Initio' );
+define( 'CHILD_THEME_URL', 'http://www.jeanphilippemarchand.com/' );
+define( 'CHILD_THEME_VERSION', '1.0' );
 
 // Enqueue Scripts and Styles.
 add_action( 'wp_enqueue_scripts', 'genesis_sample_enqueue_scripts_styles' );

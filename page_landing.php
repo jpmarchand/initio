@@ -1,12 +1,12 @@
 <?php
 /**
- * JPM Starter Theme.
+ * Initio Theme.
  *
- * This file adds the landing page template to the JPM Starter Theme.
+ * This file adds the landing page template to the Initio Theme.
  *
  * Template Name: Landing
  *
- * @package JPM Starter Theme
+ * @package Initio Theme
  * @author  Jean-Philippe Marchand
  * @license GPL-2.0+
  * @link    https://www.jeanphilippemarchand.com/
